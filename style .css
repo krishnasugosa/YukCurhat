@@ -48,3 +48,14 @@ body{
     display: none;
     -webkit-text-fill-color: white;
 }
+
+@media(max-width:440px){
+.cover{
+    width: 200px;
+    border: none;
+}
+
+#text{
+    width: 100px;
+}
+}
